@@ -1,4 +1,4 @@
-# "Hello, World!"
+# Hello, World!
 
 Hello! I am [Dhruv Bhanushali](https://dhruvkb.github.io/), an engineering
 graduate from the Indian Institute of Technology, Roorkee. I am a software
