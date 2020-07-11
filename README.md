@@ -1,3 +1,6 @@
 # "Hello, World!"
 
-Hi! I am **Dhruv Bhanushali**, a software developer who writes well-documented code, builds accessible interfaces and ships delightful apps. If you want to know more about me than one line, [start here](https://dhruvkb.github.io/)!
+Hello! I am [Dhruv Bhanushali](https://dhruvkb.github.io/), an engineering
+graduate from the Indian Institute of Technology, Roorkee. I am a software
+developer and technical writer among many other things, based on the time of day
+and the phase of the moon.
