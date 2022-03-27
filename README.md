@@ -1,9 +1,9 @@
 # Hello, World!
 
-Hello! I am [Dhruv Bhanushali](https://dhruvkb.github.io/), an engineering
-graduate from the Indian Institute of Technology, Roorkee. I am a software
-developer and technical writer among many other things, based on the time of day
-and the phase of the moon.
+Hello! I am [Dhruv Bhanushali](https://dhruvkb.github.io/).
+
+- Engineering graduate from the [Indian Institute of Technology, Roorkee](https://iitr.ac.in)
+- Software engineer at [Openverse](https://search.openverse.engineering)
 
 <a href="https://dhruvkb.github.io/" class="readme-globe-icon">
   <img
