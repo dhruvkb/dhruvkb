@@ -1,1 +1,3 @@
-[Hello, World!](https://dhruvkb.dev)
+# [＾ヮ＾]ﾉ
+
+Hi friend, I am [Dhruv Bhanushali](https://dhruvkb.dev).
