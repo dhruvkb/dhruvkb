@@ -1,3 +1,3 @@
-# [＾ヮ＾]ﾉ
+# (´•ヮ•`)ノ
 
 Hi friend, I am [Dhruv Bhanushali](https://dhruvkb.dev).
